@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/mehmhacimic/configure-ad)
+  - [How to setup Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
 
 
 <h2>Connect with me:</h2>
