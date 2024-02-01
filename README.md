@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [How to setup Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
+  - [Setting up Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
 
 
 <h2>Connect with me:</h2>
