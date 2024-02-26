@@ -4,8 +4,9 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Setting up Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
   - [Setting up Virtual Machines within Azure](https://github.com/mehmhacimic/VirtualMachineSetup)
+  - [Setting up Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
+ 
 
 
 <h2>Connect with me:</h2>
