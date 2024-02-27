@@ -6,8 +6,9 @@
 - <b>Microsoft Azure</b>
   - [Setting up Virtual Machines within Azure](https://github.com/mehmhacimic/VirtualMachineSetup)
   - [Setting up Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
- 
 
+- <b>osTicket</b> 
+  - [Installing osTicket](https://github.com/mehmhacimic/osTicket-installation)
 
 <h2>Connect with me:</h2>
 
