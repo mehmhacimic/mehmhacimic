@@ -9,6 +9,7 @@
 
 - <b>osTicket</b> 
   - [Installing osTicket](https://github.com/mehmhacimic/osTicket-installation)
+  - [Configuring osTicket](https://github.com/mehmhacimic/osTicket-Configuration)
 
 <h2>Connect with me:</h2>
 
