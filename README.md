@@ -1,6 +1,6 @@
 Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Professional.
 
-<h2>Information Technology Projects:<h2></h2>
+<h1>Information Technology Projects:<h1></h1>
 
 - <b>Microsoft Azure</b>
   - [Setting up Virtual Machines within Azure](https://github.com/mehmhacimic/VirtualMachineSetup)
@@ -10,7 +10,7 @@ Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Profes
   - [Installing osTicket](https://github.com/mehmhacimic/osTicket-installation)
   - [Configuring osTicket](https://github.com/mehmhacimic/osTicket-Configuration)
 
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
