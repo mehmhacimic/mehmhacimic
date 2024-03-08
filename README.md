@@ -10,6 +10,7 @@ Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Profes
 - <b>osTicket</b> 
   - [Installing osTicket](https://github.com/mehmhacimic/osTicket-installation)
   - [Configuring osTicket](https://github.com/mehmhacimic/osTicket-Configuration)
+  - [Ticketing Simulations](https://github.com/mehmhacimic/osTicket-Ticketing-Simulations)
 
 <h2>Connect with me:</h2>
 
