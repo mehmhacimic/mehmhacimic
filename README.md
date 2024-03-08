@@ -1,4 +1,6 @@
-Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Professional.
+Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Professional.       
+
+👨‍💻🎮
 
 <h1>Information Technology Projects:<h1></h1>
 
@@ -14,7 +16,7 @@ Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Profes
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mehmedalija Hacimic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
