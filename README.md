@@ -5,6 +5,7 @@ Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Profes
 - <b>Microsoft Azure</b>
   - [Setting up Virtual Machines within Azure](https://github.com/mehmhacimic/VirtualMachineSetup)
   - [Setting up Active Directory within Azure](https://github.com/mehmhacimic/Active-Directory-Setup)
+  - [Real-World Scenarios in Active Directory](https://github.com/mehmhacimic/Active-Directory-Real-World-Scenarios)
 
 - <b>osTicket</b> 
   - [Installing osTicket](https://github.com/mehmhacimic/osTicket-installation)
