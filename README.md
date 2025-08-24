@@ -1,4 +1,4 @@
-Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Professional.       
+Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalijahacimic">IT Professional.       
 
 👨‍💻🎮
 
@@ -20,4 +20,4 @@ Hi, I'm Mehm, an <a href="https://linkedin.com/in/mehmedalija-hacimic">IT Profes
 
 
 
-[linkedin]: https://linkedin.com/in/mehmedalija-hacimic
+[linkedin]: https://linkedin.com/in/mehmedalijahacimic
